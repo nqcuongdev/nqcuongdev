@@ -34,4 +34,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqcuongdev)](https://github.com/nqcuongdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqcuongdev&layout=compact)](https://github.com/nqcuongdev/github-readme-stats)
+[![nqcuongdev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nqcuongdev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
